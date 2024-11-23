@@ -1,7 +1,3 @@
-# 💫 About Me:
-Focus on AI
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zaeniahmad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaeniahmad__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaeniahmad_) 
 
