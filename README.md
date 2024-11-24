@@ -3,13 +3,13 @@
   <p>A passionate fullstack developer from Indonesia.</p>
   
   <div class="social-icons">
-    <a href="https://twitter.com/yourusername">
+    <a href="https://twitter.com/zaeniahmad_">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="https://linkedin.com/in/yourusername">
+    <a href="https://linkedin.com/in/zaeniahmad">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/maszaen">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <!-- Add more skill badges as needed -->
   </div>
   
   <h2>Projects</h2>
@@ -41,14 +40,13 @@
         <td><a href="https://github.com/yourusername/project2">Weather App</a></td>
         <td>A real-time weather application that displays current weather and forecast using OpenWeatherMap API.</td>
       </tr>
-      <!-- Add more project rows as needed -->
     </table>
   </div>
   
   <h2>GitHub Stats</h2>
   <div class="stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=maszaen&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maszaen&theme=dark" alt="GitHub Streak">
   </div>
   
   <h2>Contact Me</h2>
