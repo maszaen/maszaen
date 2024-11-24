@@ -9,8 +9,8 @@
     <a href="https://linkedin.com/in/zaeniahmad">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/maszaen">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <a href="https://instagram.com/zaeniahmad__">
+      <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
   
