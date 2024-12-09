@@ -31,6 +31,6 @@
 
   <h2>Contact Me</h2>
   <div class="contact">
-    <p>Feel free to reach out to me via email at zaeni.ahmad@example.com or connect with me on <a href="https://linkedin.com/in/yourusername">LinkedIn</a>.</p>
+    <p>Feel free to reach out to me via email at exqeon@gmail.com or connect with me on <a href="https://linkedin.com/in/zaeniahmad">LinkedIn</a>.</p>
   </div>
 </div>
