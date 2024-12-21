@@ -28,9 +28,4 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </div>
-
-  <h2>Contact Me</h2>
-  <div class="contact">
-    <p>Feel free to reach out to me via email at exqeon@gmail.com or connect with me on <a href="https://linkedin.com/in/zaeniahmad">LinkedIn</a>.</p>
-  </div>
 </div>
