@@ -1,7 +1,5 @@
 <div class="container">
   <h1>Hi there, I'm Zaeni Ahmad! 👋</h1>
-  <p>A passionate fullstack developer from Indonesia.</p>
-  
   <div class="social-icons">
     <a href="https://twitter.com/zaeniahmad_">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
@@ -15,7 +13,7 @@
   </div>
   
   <h2>About Me</h2>
-  <p>I am a fullstack developer with 5 years of experience. I specialize in web development using modern technologies such as React, Node.js, and GraphQL. I am passionate about building scalable and performant applications.</p>
+  <p>I am a fullstack developer with 4 month of experience. I specialize in web development using modern technologies such as React, Node.js, and GraphQL. I am passionate about building scalable and performant applications.</p>
   
   <h2>Skills</h2>
   <div class="skills">
