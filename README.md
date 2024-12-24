@@ -1,18 +1,5 @@
 <div class="container">
   <h1>Hi there, I'm Zaeni Ahmad! 👋</h1>
-  <div class="social-icons">
-    <a href="https://twitter.com/zaeniahmad_">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://linkedin.com/in/zaeniahmad">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://instagram.com/zaeniahmad__">
-      <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </div>
-  
-  <h2>About Me</h2>
   <p>I am a fullstack developer with 4 month of experience. I specialize in web development using modern technologies such as React, Node.js, and GraphQL. I am passionate about building scalable and performant applications.</p>
   
   <h2>Skills</h2>
