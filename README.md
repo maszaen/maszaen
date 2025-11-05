@@ -1,6 +1,7 @@
 <div class="container">
   <h1>Hi there, I'm Zaeni Ahmad! 👋</h1>
-  <p>I am a fullstack developer with 4 month of experience. I specialize in web development using modern technologies such as React, Node.js, and GraphQL. I am passionate about building scalable and performant applications.</p>
+  <p>I am a fullstack developer with <strong>1+ years of experience</strong>, specializing in modern web technologies like React, Node.js, and GraphQL.
+  <p>Passionate about building scalable and performant applications. My approach is built on a <strong>deep understanding of software architecture and development fundamentals</strong>. I strategically leverage modern tools, including AI, as powerful assistants to accelerate development, not as a replacement for core expertise.</p>
   
   <h2>Skills</h2>
   <div class="skills">
