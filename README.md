@@ -1,7 +1,12 @@
 <div class="container">
   <h1>Hi there, I'm Zaeni Ahmad! 👋</h1>
-  <p>I am a fullstack developer with <strong>1+ years of experience</strong>, specializing in modern web technologies like React, Node.js, and GraphQL.
-  <p>Passionate about building scalable and performant applications. My approach is built on a <strong>deep understanding of software architecture and development fundamentals</strong>. I strategically leverage modern tools, including AI, as powerful assistants to accelerate development, not as a replacement for core expertise.</p>
+
+I am a fullstack developer with **1+ years of experience**, specializing in modern web technologies like React, Next.js, and Node.js.
+
+Passionate about building scalable and performant applications. My approach is built on a **deep understanding of software architecture and development fundamentals**. I strategically leverage modern tools, including AI, as powerful assistants to accelerate development, and not as a replacement for core expertise.
+
+I'm also a **highly detail-oriented and perfectionistic** developer: I don't ship unless it's right. Every pixel, every design, and every line of code gets reviewed until it earns its place.
+
   
   <h2>Skills</h2>
   <div class="skills">
@@ -14,4 +19,13 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </div>
+
+## Design
+
+Beyond code, I care deeply about how things look and feel. I design with intention from wireframes to polished prototypes with a keen eye for typography, spacing, and visual hierarchy. My design work is driven by a **perfectionist mindset**: every detail is deliberate.
+
+> Check out my design portfolio on **[Behance](https://behance.net/zaeniahmad)**
+
+---
+
 </div>
