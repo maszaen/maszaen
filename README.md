@@ -6,7 +6,7 @@ I am a fullstack developer with **1+ years of experience**, specializing in mode
 Passionate about building scalable and performant applications. My approach is built on a **deep understanding of software architecture and development fundamentals**. I strategically leverage modern tools, including AI, as powerful assistants to accelerate development, and not as a replacement for core expertise.
 
 I'm also a **highly detail-oriented and perfectionistic** developer: I don't ship unless it's right. Every pixel, every design, and every line of code gets reviewed until it earns its place.
-
+> Check out my project portfolio on **[Behance](https://zaeniahmad.me)**
   
   <h2>Skills</h2>
   <div class="skills">
